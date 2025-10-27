@@ -1,5 +1,9 @@
 # React + Vite
 
+//shows the site
+[Open Recipe site](https://shyam-recipe.netlify.app/)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
